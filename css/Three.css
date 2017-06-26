@@ -16,20 +16,21 @@ div {
 .head1{
 	width: 130px;
 	height: 190px;
-	background-color: gold;
+	background-color: white;
 	float: left;
 	margin-top: 30px; 
-	border:1px solid #000;
+	border:2px solid #000;
 	position:absolute; 
 	top:0px; 
 	left:0px;
 }
 
 .head2{
-	width: 130px;
-	height: 190px;
-	background-color: gold;
-	float: left;
-	margin-top: 30px;  
-	border:1px solid #000;
+	width: 190px;
+	height: 130px;
+	background-color: white; 
+	border:2px solid #000;
+	position:absolute; 
+	top:0px; 
+	left:0px;
 }
