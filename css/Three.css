@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+div {
+	position:relative;
+}
+
+#head{
+	background-color:#e6e6e6;
+	width: 1600px;
+	height: 900px;
+}
+
+.head1{
+	width: 130px;
+	height: 190px;
+	background-color: gold;
+	float: left;
+	margin-top: 30px; 
+	border:1px solid #000;
+	position:absolute; 
+	top:0px; 
+	left:0px;
+}
+
+.head2{
+	width: 130px;
+	height: 190px;
+	background-color: gold;
+	float: left;
+	margin-top: 30px;  
+	border:1px solid #000;
+}
