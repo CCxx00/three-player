@@ -34,3 +34,19 @@ div {
 	top:0px; 
 	left:0px;
 }
+
+.button1{
+	width: 150px;
+	height: 30px;
+	font-size:20px;
+	margin-left: 20px;
+}
+
+.card{
+	width: 100px;
+	height: 130px;
+	background-color: white;
+	float: left;
+	border:2px solid #000;
+	margin-left: 10px;
+}
